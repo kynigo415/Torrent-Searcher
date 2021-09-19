@@ -1,16 +1,16 @@
 {
     "name": "Torrent SearcherBot",
     "description": "Telegram Torrent Searcher",
-    "logo": "https://raw.githubusercontent.com/devillD/Torrent-Searcher/main/torrent-src.png",
+    "logo": "",
     "keywords": [
       "telegram",
       "bot",
       "torrent",
       "python"
     ],
-    "repository": "https://github.com/devillD/Torrent-Searcher.git",
-    "website": "https://t.me/trntsrcbot",
-    "success_url": "https://t.me/trntsrcbot",
+    "repository": "",
+    "website": "",
+    "success_url": "",
     "stack": "container",
     "env": {
       "BOT_TOKEN": {
