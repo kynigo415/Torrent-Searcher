@@ -13,7 +13,7 @@ print("\nBot Started\n")
 
 @app.on_message(filters.command(['start']))
 async def start(_, message):
-    await message.reply_text("Hello I'm iTorrent Torrent Scraper Bot\nSend /help To Show Help Screen\nBot by @unkusr")
+    await message.reply_text("Hello I'm iTorrent Torrent Scraper Bot\nSend /help To Show Help Screen\nBot by @crazy_sloGaN")
 
 
 
