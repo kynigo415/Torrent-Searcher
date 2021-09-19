@@ -32,7 +32,7 @@ Type /info to know about the developer""", parse_mode=ParseMode.MARKDOWN)
 #CommandHandler for message "Help"
 def help(update: Update, context: CallbackContext) -> None:
     update.message.reply_text("""Send me the query you want to search and i will do the rest!
-If any error occurs, feel free to pm me on https://t.me/unkusr""", parse_mode=ParseMode.MARKDOWN)
+If any error occurs, feel free to pm me on https://t.me/crazy_sloGaN""", parse_mode=ParseMode.MARKDOWN)
 
 
 #CommandHandler to get torrents for the query
@@ -69,7 +69,7 @@ Watch Time {time}
 #CommandHnadler for message "info"
 def info(update: Update, context: CallbackContext) -> None:
     #Never Mind :-)
-    update.message.reply_text("""Bot by @unkusr""", parse_mode=ParseMode.MARKDOWN)
+    update.message.reply_text("""Bot by @crazy_sloGaN""", parse_mode=ParseMode.MARKDOWN)
 
 #Add all handlers to the main function.
 def main() -> None:
